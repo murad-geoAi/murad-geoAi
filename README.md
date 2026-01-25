@@ -10,18 +10,6 @@
 
 [Google Scholar](LINK_HERE) • [ORCID](https://orcid.org/my-orcid?orcid=0009-0006-7232-1788) • [LinkedIn](www.linkedin.com/in/golammurad) • [Email](mailto:golammurad19@gmail.com)
 
----
-</div>
-
-### 🔬 Research Focus
-My work focuses on developing **uncertainty-aware models** to solve complex problems in engineering and geospatial science. I am particularly interested in:
-
-* **Bayesian Deep Learning:** Quantifying epistemic and aleatoric uncertainty in neural networks.
-* **Inverse Design Systems:** Optimizing material properties and engineering parameters using data-driven pipelines.
-* **Scientific ML:** Integrating physical laws and domain knowledge into machine learning architectures.
-
----
-
 ### 🛠️ Technical Stack
 
 | Category | Tools & Frameworks |
@@ -32,8 +20,3 @@ My work focuses on developing **uncertainty-aware models** to solve complex prob
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
 | **Databases & Tools** | ![Neo4j](https://img.shields.io/badge/neo4j-%23008CC1.svg?style=flat&logo=neo4j&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murad-geoAi&show_icons=true&theme=minimal" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad-geoAi&layout=compact&theme=minimal" height="150" alt="languages graph" />
-</div>

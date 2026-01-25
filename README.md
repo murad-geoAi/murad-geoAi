@@ -34,6 +34,6 @@ My work focuses on developing **uncertainty-aware models** to solve complex prob
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=minimal" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=minimal" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murad-geoAi&show_icons=true&theme=minimal" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad-geoAi&layout=compact&theme=minimal" height="150" alt="languages graph" />
 </div>

@@ -17,7 +17,7 @@
 | **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=flat&logo=pytorchlightning&logoColor=white) ![Hugging Face](https://img.shields.io/badge/huggingface-%23263749.svg?style=flat&logo=huggingface&logoColor=FFD21E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)|
 | **Scientific Computing** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
 | **Optimization & UI** | ![Optuna](https://img.shields.io/badge/Optuna-4B8BBE?style=flat) ![Gradio](https://img.shields.io/badge/Gradio-FD6F00?style=flat&logo=gradio&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
 | **Databases & Tools** | ![Neo4j](https://img.shields.io/badge/neo4j-%23008CC1.svg?style=flat&logo=neo4j&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
 
@@ -28,4 +28,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=murad-geoAi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+</div>
